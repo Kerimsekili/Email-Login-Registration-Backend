@@ -14,6 +14,6 @@ In this project, I coded an Email validation system with Spring Boot.
 
 # Example Request
 
-#Postman
+# Postman
 ![postman](https://user-images.githubusercontent.com/65266777/187195653-b52eafc4-abcb-40d1-8c13-a0384a9d8f1f.png)
 ![postman](https://user-images.githubusercontent.com/65266777/187195742-acf6335f-667d-4286-879a-b7b5281af8a7.png)
